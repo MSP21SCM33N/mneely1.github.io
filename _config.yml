@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Neely"
-  avatar           : /images/Copy of Copy of DSC_7780.jpg
+  avatar           : "/images/bio.jpg"
   bio              : "Computer Science Major at Illinois Institute of Technology with a strong passion for Data Science, Blockchain, and Application Development"
   location         : "Chicago, IL"
   email            :
