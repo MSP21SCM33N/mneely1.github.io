@@ -29,8 +29,9 @@ logo                     : "/assets/images/bio.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-header: 
-  image                  : /assets/images/waterfront.jpg
+masthead:
+  header: 
+    image                  : "/assets/images/waterfront.jpg"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
