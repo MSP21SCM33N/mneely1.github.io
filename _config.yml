@@ -15,6 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+header                   : /assets/images/waterfront.jpg
 locale                   : "en-US"
 title                    : "Michael Neely"
 title_separator          : "-"
