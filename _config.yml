@@ -22,14 +22,13 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Michael Neely"
 description              : "Data Science/Blockchain/Application Development Portfolio"
 url                      : "https://www.michaelneelydev.com"
-baseurl                  : 
+baseurl                  : #thei
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/bio.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-header: "/assets/images/waterfront.jpg"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
