@@ -4,6 +4,11 @@ main:
     url: /about/
   - title: "Application Development"
     url: /application-development/
+  - title: "Data Science"
+    url: /data-science/
+  - title: "Blockchain"
+    url: /blockchain/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

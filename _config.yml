@@ -25,7 +25,7 @@ url                      : "https://www.michaelneelydev.com"
 baseurl                  : 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/bio.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Neely"
-  avatar           : "/images/bio.jpg"
+  avatar           : "/assets/images/bio.jpg"
   bio              : "Computer Science Major at Illinois Institute of Technology with a strong passion for Data Science, Blockchain, and Application Development"
   location         : "Chicago, IL"
   email            :
@@ -209,7 +209,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
 
 # Plugins (previously gems:)
@@ -278,7 +278,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
 
