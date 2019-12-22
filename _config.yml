@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Neely"
-  avatar           : "/images/Copy of Copy of DSC_7780.jpg"
+  avatar           : /images/Copy of Copy of DSC_7780.jpg
   bio              : "Computer Science Major at Illinois Institute of Technology with a strong passion for Data Science, Blockchain, and Application Development"
   location         : "Chicago, IL"
   email            :
@@ -147,8 +147,6 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
       # url:
 
 
