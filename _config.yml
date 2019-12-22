@@ -20,7 +20,7 @@ title                    : "Michael Neely"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michael Neely"
-description              : "Data Science/Blockchain/App Development Portfolio"
+description              : "Data Science/Blockchain/Application Development Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Michael Neely"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Copy of Copy of DSC_7780.jpg"
   bio              : "Computer Science Major at Illinois Institute of Technology with a strong passion for Data Science, Blockchain, and Application Development"
   location         : "Chicago, IL"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:michael.neely17@gmail.com
+      url: mailto:mneely1@hawk.iit.edu
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/michael-neely-751669145/"
@@ -128,9 +128,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mneely1"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/mikeaneely/"
 
 # Site Footer
 footer:
