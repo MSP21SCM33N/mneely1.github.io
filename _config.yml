@@ -279,6 +279,8 @@ defaults:
       type: posts
     values:
       layout: single
+      header:
+        image: /assets/images/waterfront.jpg
       author_profile: true
       read_time: true
       comments: true
