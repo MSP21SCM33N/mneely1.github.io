@@ -268,8 +268,7 @@ compress_html:
   ignore:
     envs: development
 
-header:
-  image: /assets/images/waterfront.jpg
+
 # Defaults
 defaults:
 #   _posts
@@ -283,6 +282,8 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        image: /assets/images/waterfront.jpg
 
   # _pages
   - scope:
@@ -291,4 +292,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        image: /assets/images/waterfront.jpg
 
